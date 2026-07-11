@@ -1,223 +1,100 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abdelsalam</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Machine Learning Engineer • Python Developer • C++ Programmer
-</h3>
+# Ahmed Abdelsalam
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Developer;C%2B%2B+Programmer;ASP.NET+MVC+Developer;Data+Analysis+%26+Visualization" />
+### AI Engineer & Machine Learning Developer
+
+Computer Science student at Sinai University, building practical AI/ML solutions and desktop applications with Python and C++.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abdelsalam15)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.abogahl2445@su.edu.eg)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Eng_Ahmed15)
+
+</div>
+
+---
+
+## About Me
+
+- 🎓 Computer Science student, Faculty of Information Technology and Computer Science, Sinai University (2023 – 2027)
+- 🤖 Focused on Artificial Intelligence, Machine Learning & Data Analysis
+- 🧑‍🏫 AI Instructor (part-time) — teaching Python, Data Analysis, ML & Deep Learning
+- 🛠️ Building desktop apps and ML tools with Python, C++ and C#
+- 🌱 Currently deepening my skills in Deep Learning with TensorFlow & PyTorch
+
+---
+
+## Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+**AI / ML & Data:**
+
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
 ---
 
-# 🧠 About Me
+## Featured Projects
 
-<img align="right" alt="AI" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-
-- 🎓 Computer Science Student
-- 🤖 Specialized in Artificial Intelligence & Machine Learning
-- 🐍 Strong experience with Python programming
-- ⚡ Experienced in C++ & Object-Oriented Programming
-- 🌐 Worked with HTML, CSS, and JavaScript
-- 🖥️ Developed web applications using ASP.NET MVC
-- 📊 Interested in Data Analysis & Visualization
-- 🚀 Passionate about solving real-world problems using AI
-
-<br><br>
+| Project | Description |
+|---|---|
+| **[Alzheimer's Disease Prediction](https://github.com/eng-ahmed-15/Alzheimers-Disease-Prediction)** | Machine learning model for medical dataset analysis and predictive diagnosis. |
+| **[AI Auto Machine Learning Dashboard](https://github.com/eng-ahmed-15/Machine-Learning-Dashboard)** | Automated dashboard for data preprocessing, model training and evaluation. |
+| **[Coffee Health Analysis](https://github.com/eng-ahmed-15/coffee-health-analysis)** | Data analysis and classification of health patterns using Python. |
+| **[Sakany – Smart Real Estate Platform](https://github.com/mustafaaltayeb333/SakanyApp)** | Collaborative platform for smart rental property management. |
+| **[Banking Management System](https://github.com/eng-ahmed-15/Banking-Management-System-SWE)** | Software engineering project simulating core banking workflows. |
+| **[Dental Clinic Management System](https://github.com/eng-ahmed-15/Dental-Clinic-Management-System-Cpp)** | C++ desktop app for appointment scheduling with file handling & OOP. |
+| **[Hospital Management System](https://github.com/eng-ahmed-15/Hospital-Management-System-DB)** | Database-driven hospital workflow system built with Microsoft Access. |
+| **[Paint App](https://github.com/eng-ahmed-15/Paint-App-CS)** | Desktop drawing application built with C#. |
 
 ---
 
-# 🚀 Tech Stack
+## Certifications
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=cs" />
-<img src="https://skillicons.dev/icons?i=dotnet" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=visualstudio" />
-
-</p>
+- Getting Started with Deep Learning — **NVIDIA**, 2025
+- AI and Machine Learning — **Sprints x Microsoft Summer Camp**, 2025
+- Machine Learning Summer Training — **NTI & ITIDA**, 2025
+- Artificial Intelligence Summer Training — **ITI**, 2025
+- Python Essentials 1 & 2 — **Cisco Networking Academy / OpenEDG**, 2025
+- AI For Everyone (AI4E) — **Mahara Tech, ITI AI Academy**, 2025
+- Python Programming Basics — **Mahara Tech, ITI AI Academy**, 2025
+- Introduction to Modern AI — **Cisco Networking Academy**, 2025
+- Artificial Intelligence for Beginners — **HP LIFE**, 2025
 
 ---
 
-# 🤖 AI & Machine Learning Skills
+## GitHub Stats
 
-```python
-Machine Learning
-Data Analysis
-Data Visualization
-Feature Engineering
-Model Evaluation
-Classification Models
-Regression Models
-Scikit-Learn
-NumPy
-Pandas
-Matplotlib
-```
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=eng-ahmed-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmed-15&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
----
-
-# 💻 Programming & Development
-
-```cpp
-Python
-C++
-ASP.NET MVC
-HTML5
-CSS3
-JavaScript
-Object-Oriented Programming
-Data Structures & Algorithms
-Microsoft Access
-```
-
----
-
-# 🏆 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🧠 Alzheimer's Disease Prediction
-
-- Machine Learning project
-- Medical dataset analysis
-- Predictive modeling
-- Data preprocessing & evaluation
-
-🔗 Repo:
-[View Project](https://github.com/eng-ahmed-15/Alzheimers-Disease-Prediction)
-
-</td>
-
-<td width="50%">
-
-### ☕ Coffee Health Analysis
-
-- Data analysis & visualization
-- Correlation analysis
-- Health insights using Python
-
-🔗 Repo:
-[View Project](https://github.com/eng-ahmed-15/coffee-health-analysis)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 Machine Learning Dashboard
-
-- Automated ML dashboard
-- Data preprocessing
-- Model training & visualization
-
-🔗 Repo:
-[View Project](https://github.com/eng-ahmed-15/Machine-Learning-Dashboard)
-
-</td>
-
-<td width="50%">
-
-### 🏦 Banking Management System
-
-- Software Engineering project
-- Banking workflow simulation
-- Structured system architecture
-
-🔗 Repo:
-[View Project](https://github.com/eng-ahmed-15/Banking-Management-System-SWE)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🦷 Dental Clinic Management System
-
-- C++ desktop application
-- Appointment management
-- File handling & OOP
-
-🔗 Repo:
-[View Project](https://github.com/eng-ahmed-15/Dental-Clinic-Management-System-Cpp)
-
-</td>
-
-<td width="50%">
-
-### 🏥 Hospital Management System
-
-- Database management project
-- Built using Microsoft Access
-- Hospital workflow simulation
-
-🔗 Repo:
-[View Project](https://github.com/eng-ahmed-15/Hospital-Management-System-DB)
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eng-ahmed-15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmed-15&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=eng-ahmed-15&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🌍 Connect With Me
+<div align="center">
 
-<p align="center">
+📫 Reach me at **a.abogahl2445@su.edu.eg** · 📍 Egypt
 
-<a href="https://linkedin.com/in/ahmed-abdelsalam15" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://youtube.com/@Eng_Ahmed15" target="_blank">
-<img src="https://skillicons.dev/icons?i=youtube" height="50"/>
-</a>
-
-<a href="mailto:a.abogahl2445@su.edu.eg">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">
-⚡ AI • ML • Python • C++ ⚡
-</h2>
+</div>
