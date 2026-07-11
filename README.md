@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/animate.svg" width="700">
+  <img src="./assets/AI-Brain.png" width="700">
 </p>
 
 <br><br>
