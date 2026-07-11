@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/drive/folders/11FOGLpIrC9Izp8AMO12rsXcDKby5iCBI">
+<a href="https://drive.google.com/drive/folders/11FOGLpIrC9Izp8AMO12rsXcDKby5iCBI](https://drive.google.com/file/d/1fugVhgez_oIEjMQI3-JMsb3I2PKye60d/view?usp=drive_link">
 <img src="https://img.shields.io/badge/CV-0F2027?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
